@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://konawaque.19950128.com/sitemap.xml
